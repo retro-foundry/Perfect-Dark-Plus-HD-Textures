@@ -27,7 +27,7 @@ Known issues:
 You will need a Perfect Dark PC Port (or VR port) with external texture support:
 
 - Rafccq's original ext-tex build: https://github.com/rafccq/perfect_dark/releases/
-- DabDavis' modded version (Recommended): https://github.com/DabDavis/perfect-dark-dabs-modreleases/
+- DabDavis' modded version (Recommended): [https://github.com/DabDavis/perfect-dark-dabs-modreleases/](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
 - UbiDooby's modern control mod: https://github.com/UbiDoobyBanooby/perfect_dark-UBIB/releases/
 - Alex-LeTux's VR Port: https://github.com/Alex-LeTux/perfect_dark_VR/releases/
 

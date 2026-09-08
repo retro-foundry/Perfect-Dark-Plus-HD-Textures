@@ -1,4 +1,4 @@
-XBLA PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09
+PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09
 By Parabolee of Retro Foundry
 
 For updates, requests, feedback, or any of our other texture/decompilation work, visit: 

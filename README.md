@@ -1,7 +1,7 @@
 PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09
 By Parabolee of Retro Foundry
 
-For updates, requests, feedback, or any of our other texture/decompilation work, visit: 
+For updates, requests, feedback, or any of our other texture/decompilation work, visit:
 https://www.patreon.com/c/retrofoundry
 
 Please report any broken textures that you find, locations and screenshots are especially appreciated. 

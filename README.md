@@ -34,12 +34,12 @@ You will need a Perfect Dark PC Port (or VR port) with external texture support:
 Directory Requirements:
 
 - Rafccq's, UbiDooby's, and the VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
-Correct folder structure - https://imgur.com/kRtET10
-Then enable in Extended Options > Video > External Textures
+- Correct folder structure - https://imgur.com/kRtET10
+- Then enable in Extended Options > Video > External Textures
 
 - DabDavis' build requires the textures to be located in there own folder in a "texture-packs" folder.
-Correct folder structure - https://imgur.com/a/37GxxkZ
-Then enable in Extended Options > Texture Packs
+- Correct folder structure - https://imgur.com/a/37GxxkZ
+- Then enable in Extended Options > Texture Packs
 
 See the instructions for each specific build for more info.
 

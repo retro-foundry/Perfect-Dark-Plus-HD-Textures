@@ -1,15 +1,14 @@
-PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09
-By Parabolee of Retro Foundry
+**PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09**
+- By Parabolee of Retro Foundry
 
 For updates, requests, feedback, or any of our other texture/decompilation work, visit:
 https://www.patreon.com/c/retrofoundry
 
 Please report any broken textures that you find, locations and screenshots are especially appreciated. 
 
-Known issues:
+**Known issues:**
 
 - Some textures haves stretched pixels that look bad. Cannot be fixed by textures alone. DabDavis is looking to fixing with code. 
-
 - Many enemy outfits and faces need some polish.
 
 
@@ -59,7 +58,7 @@ Original External Texture support.
 - Rafccq
 
 Special Thanks To: 
--Howardphilips, fgsfdsfgs, Rafccq, ubidoobybanooby, Graslu, DabDavis, Atari-Dude (who also contributed to Joanna's face texture). 
+- Howardphilips, fgsfdsfgs, Rafccq, ubidoobybanooby, Graslu, DabDavis, Atari-Dude. 
 Rare, 4J Studios, Microsoft, and everyone who worked on the original game!
 
 

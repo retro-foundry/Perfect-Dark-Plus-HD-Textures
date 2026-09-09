@@ -27,15 +27,21 @@ Known issues:
 You will need a Perfect Dark PC Port (or VR port) with external texture support:
 
 - Rafccq's original ext-tex build: https://github.com/rafccq/perfect_dark/releases/
-- DabDavis' modded version (Recommended): [https://github.com/DabDavis/perfect-dark-dabs-modreleases/](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
+- DabDavis' modded version (Recommended): [https://github.com/DabDavis/perfect-dark-dabs-mod/releases/](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
 - UbiDooby's modern control mod: https://github.com/UbiDoobyBanooby/perfect_dark-UBIB/releases/
 - Alex-LeTux's VR Port: https://github.com/Alex-LeTux/perfect_dark_VR/releases/
 
 Directory Requirements:
-- Rafccq's, UbiDooby's, and the VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
-- DabDavis' build requires the textures to be located in a "texture-packs" folder.
-See the instructions for each specific build for more info.
 
+- Rafccq's, UbiDooby's, and the VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
+Correct folder structure - https://imgur.com/kRtET10
+Then enable in Extended Options > Video > External Textures
+
+- DabDavis' build requires the textures to be located in there own folder in a "texture-packs" folder.
+Correct folder structure - https://imgur.com/a/37GxxkZ
+Then enable in Extended Options > Texture Packs
+
+See the instructions for each specific build for more info.
 
 **Credits**
 

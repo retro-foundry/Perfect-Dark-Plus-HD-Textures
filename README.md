@@ -56,10 +56,10 @@ https://github.com/Graslu/GEPDTexturePacks
 All [FONT] graphics were created by Trov in Photoshop, either hand-drawn or created using the font HandelGotDLig.ttf. Permission granted by Carnivorous to be released under the Creative Commons CC0 1.0 Universal License.
 
 Original External Texture support.
-- Rafcqq
+- Rafccq
 
 Special Thanks To: 
--Howardphilips, fgsfdsfgs, Rafcqq, ubidoobybanooby, Graslu, DabDavis, Atari-Dude (who also contributed to Joanna's face texture). 
+-Howardphilips, fgsfdsfgs, Rafccq, ubidoobybanooby, Graslu, DabDavis, Atari-Dude (who also contributed to Joanna's face texture). 
 Rare, 4J Studios, Microsoft, and everyone who worked on the original game!
 
 

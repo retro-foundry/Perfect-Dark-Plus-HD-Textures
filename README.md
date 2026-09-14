@@ -96,6 +96,28 @@ Rare, 4J Studios, Microsoft, and everyone who worked on the original game!
 
 **Changelog**
 
+v0.10
+- Branched the textures into 3 packs to accomodate Dabs branch progress. Keeping version number from past as each pack is built on the same base.
+
+PD Forever Plus HD
+- Replaced ~1600 textures with Howard Philips Perfect Dark Forever pack. 
+- Replaced ~20 textures with ones from the PD Plus pack that are more faithful to the N64 original.
+
+XBLA Plus HD
+- Upscaled and added 738 more XBLA textures that were exclusive to XBLA assets for use with Dab's branch with XBLA Asset support.
+- Fixed Golden Gun and added texture
+- Fixed rivets on Falcon
+
+Ultimate Plus HD
+- Upscaled and added 738 more XBLA textures that were exclusive to XBLA assets for use with Dab's branch with XBLA Asset support.
+- Created a new more faithful face for Joanna.
+- Added more faithful Joanna face with makeup for Carrington Institute: Defense mission.
+- Fixed Golden Gun and added texture
+- Fixed rivets on Falcon
+- Fixed Joanna's combat suit belt. No more PCB!
+
+-----
+
 v0.09
 - Fixed all the rock textures in Carrington Villa
 - Fixed Multiplayer Villa map textures

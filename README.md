@@ -1,24 +1,53 @@
-**PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.09**
+**PD PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
 - By Parabolee of Retro Foundry
 
-For updates, requests, feedback, or any of our other texture/decompilation work, visit:
+For updates, requests, feedback, or any of our other texture/de-compilation work, visit:
 https://www.patreon.com/c/retrofoundry
 
 Please report any broken textures that you find, locations and screenshots are especially appreciated. 
 
+The pack has been split into 4 different packs to accommodate Dabdavis' XBLA model support:
+
+**PD FOREVER PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
+- Created by Howard Phillips. Converted and completed by Rafccq, Enigmata, Atari-Dude, & Parabolee
+
+This pack is for people that want HD textures that are faithful to the N64 original and do not like the XBLA Textures or models. It is for use with the VR or Dabdavis port while NOT using XBLA models.
+
+
+**XBLA PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
+- By Parabolee of Retro Foundry
+
+This pack is for people that want to use XBLA faithful but enhanced textures with XBLA models in the PC Port, for use with Dabdavis' branch with XBLA models. Enhanced by Parabolee.
+
+
+**ULTIMATE PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
+- By Parabolee of Retro Foundry
+
+This is the recommended pack. This pack is for people that want to use XBLA models with enhanced textures that are updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
+
+**PD Oculus Stand Alone HD Plus**
+- Please use 0.09 for now, a new version will be added once Alex_LeTux Releases his latest build.
+
 **Known issues:**
 
-- Some textures haves stretched pixels that look bad. Cannot be fixed by textures alone. DabDavis is looking to fixing with code. 
+**PD Forever Plus HD**
 - Many enemy outfits and faces need some polish.
 
+**XBLA Plus HD**
+- None known at this time (please report any)
+
+**Ultimate Plus HD**
+- None known at this time (please report any)
 
 **Overview**
 
-- All 1,402 working XBLA textures imported (some were never mapped to N64 textures due to new models).
-- XBLA textures were upscaled 2x by Parabolee using Upscayl.
+- Multiple Perfect Dark Texture packs for every flavor!
+
+- All XBLA textures imported and enhanced for 2 XBLA based packs.
+- Howard Phillips legendary Perfect Dark Forever pack enhanced for the PC Port.
 - Hundreds of hand-made textures and fixes by Parabolee.
-- Select textures integrated from Howardphilips' legendary Perfect Dark Forever texture pack (the complete pack is also coming soon).
-- All remaining missing textures provided as upscaled versions by Enndee.
+- An enhanced XBLA pack bringing it closer to what fans originally wanted.
+- All remaining missing textures provided as upscaled versions by Enndee and Parabolee.
 
 
 **How to Use**
@@ -26,7 +55,6 @@ Please report any broken textures that you find, locations and screenshots are e
 You will need a Perfect Dark PC Port (or VR port) with external texture support:
 
 - DabDavis' modded version (Recommended. All mods and additional features are optional): [https://github.com/DabDavis/perfect-dark-dabs-mod/releases/](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
-- UbiDooby's modern control mod (mods are optional): https://github.com/UbiDoobyBanooby/perfect_dark-UBIB/releases/
 - Alex-LeTux's VR Port: https://github.com/Alex-LeTux/perfect_dark_VR/releases/
 
 **Install Directory Requirements - DabDavis**
@@ -37,7 +65,7 @@ DabDavis' build requires the textures to be located in there own folder in a "te
 
 **Install Directory Requirements - UbiDooby / VR**
 
-UbiDooby's, and the VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
+The VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
 - Correct folder structure - https://imgur.com/kRtET10
 - Then enable in Extended Options > Video > External Textures
 
@@ -56,6 +84,10 @@ All [FONT] graphics were created by Trov in Photoshop, either hand-drawn or crea
 
 Original External Texture support.
 - Rafccq
+
+Perfect Dark Forever Textures.
+- Originally created by Howard Phillips
+- Converted to the PC port by Rafccq, Enigmata, Atari-Dude, & Parabolee
 
 Special Thanks To: 
 - Howardphilips, fgsfdsfgs, Rafccq, ubidoobybanooby, Graslu, DabDavis, Atari-Dude. 

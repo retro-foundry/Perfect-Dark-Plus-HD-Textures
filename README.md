@@ -8,6 +8,8 @@ Please report any broken textures that you find, locations and screenshots are e
 
 The pack has been split into 4 different packs to accommodate Dabdavis' XBLA model support:
 
+EDIT: Now 5 with 2 Quest packs added.
+
 **PD FOREVER PLUS HD Texture Pack for the PC/PCVR Port of Perfect Dark - V0.10**
 - Created by Howard Phillips. Converted and completed by Rafccq, Enigmata, Atari-Dude, & Parabolee
 
@@ -25,7 +27,7 @@ This pack is for people that want to use XBLA faithful but enhanced textures wit
 
 This is the recommended pack. This pack is for people that want to use XBLA models with enhanced textures that are updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
 
-**PD Plus HD Oculus Stand Alone**
+**PD Plus HD Oculus Stand Alone - For v1.9-beta or newer of Alex_LeTux's VR port**
 - Updated to 0.10, added both XBLA based and PD Forever based packs. Both can also be used with PCVR. 
 
 **Known issues:**

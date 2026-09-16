@@ -8,10 +8,10 @@ Please report any broken textures that you find, locations and screenshots are e
 
 The pack has been split into 4 different packs to accommodate Dabdavis' XBLA model support:
 
-**PD FOREVER PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
+**PD FOREVER PLUS HD Texture Pack for the PC/PCVR Port of Perfect Dark - V0.10**
 - Created by Howard Phillips. Converted and completed by Rafccq, Enigmata, Atari-Dude, & Parabolee
 
-This pack is for people that want HD textures that are faithful to the N64 original and do not like the XBLA Textures or models. It is for use with the VR or Dabdavis port while NOT using XBLA models.
+This pack is for people that want HD textures that are faithful to the N64 original and do not like the XBLA Textures or models. It is for use with the PCVR or Dabdavis port while NOT using XBLA models.
 
 
 **XBLA PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
@@ -25,8 +25,8 @@ This pack is for people that want to use XBLA faithful but enhanced textures wit
 
 This is the recommended pack. This pack is for people that want to use XBLA models with enhanced textures that are updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
 
-**PD Oculus Stand Alone HD Plus**
-- Please use 0.09 for now, a new version will be added once Alex_LeTux Releases his latest build.
+**PD Plus HD Oculus Stand Alone**
+- Updated to 0.10, added both XBLA based and PD Forever based packs. Both can also be used with PCVR. 
 
 **Known issues:**
 
@@ -98,6 +98,13 @@ Rare, 4J Studios, Microsoft, and everyone who worked on the original game!
 
 v0.10
 - Branched the textures into 3 packs to accomodate Dabs branch progress. Keeping version number from past as each pack is built on the same base.
+
+XBLA Plus HD Quest Standalone
+- Seperated the XBLA Quest pack.
+- Flipped all textures the right way up for easier management. 
+
+PD Forever Quest Standalone
+- Created PD Forever standalone for Quest. Increased compression for better performance with Quest.
 
 PD Forever Plus HD
 - Replaced ~1600 textures with Howard Philips Perfect Dark Forever pack. 

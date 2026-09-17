@@ -8,7 +8,7 @@ Please report any broken textures that you find, locations and screenshots are e
 
 The pack has been split into 4 different packs to accommodate Dabdavis' XBLA model support:
 
-EDIT: Now 5 with 2 Quest packs added.
+EDIT 16-Sep-2026: Now 5 with 2 Quest packs added. Also fixed missing outline text for PD Forever Plus HD (PD.Forever.Plus.HD.v0.10b.zip).
 
 **PD FOREVER PLUS HD Texture Pack for the PC/PCVR Port of Perfect Dark - V0.10**
 - Created by Howard Phillips. Converted and completed by Rafccq, Enigmata, Atari-Dude, & Parabolee
@@ -27,8 +27,9 @@ This pack is for people that want to use XBLA faithful but enhanced textures wit
 
 This is the recommended pack. This pack is for people that want to use XBLA models with enhanced textures that are updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
 
-**PD Plus HD Oculus Stand Alone - For v1.9-beta or newer of Alex_LeTux's VR port**
+**PD Plus HD Oculus Stand Alone - For v1.9-beta of Alex_LeTux's VR port** 
 - Updated to 0.10, added both XBLA based and PD Forever based packs. Both can also be used with PCVR. 
+- NOTE: Is now installed in a "texture-packs" folder, just like Dabs Mod.
 
 **Known issues:**
 
@@ -59,17 +60,11 @@ You will need a Perfect Dark PC Port (or VR port) with external texture support:
 - DabDavis' modded version (Recommended. All mods and additional features are optional): [https://github.com/DabDavis/perfect-dark-dabs-mod/releases/](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
 - Alex-LeTux's VR Port: https://github.com/Alex-LeTux/perfect_dark_VR/releases/
 
-**Install Directory Requirements - DabDavis**
+**Install Directory Requirements**
 
-DabDavis' build requires the textures to be located in there own folder in a "texture-packs" folder. 
+Requires the textures to be located in there own folder in a "texture-packs" folder. 
 - Correct folder structure - https://imgur.com/a/37GxxkZ
 - Then enable in Extended Options > Texture Packs
-
-**Install Directory Requirements - UbiDooby / VR**
-
-The VR port require the textures to be located in the root of a "ext_tex" folder within the data folder.
-- Correct folder structure - https://imgur.com/kRtET10
-- Then enable in Extended Options > Video > External Textures
 
 See the instructions for each specific build for more info.
 
@@ -99,7 +94,7 @@ Rare, 4J Studios, Microsoft, and everyone who worked on the original game!
 **Changelog**
 
 v0.10
-- Branched the textures into 3 packs to accomodate Dabs branch progress. Keeping version number from past as each pack is built on the same base.
+- Branched the textures into 3 packs to accommodate Dabs branch progress. Keeping version number from past as each pack is built on the same base.
 
 XBLA Plus HD Quest Standalone
 - Seperated the XBLA Quest pack.

@@ -6,26 +6,23 @@ https://www.patreon.com/c/retrofoundry
 
 Please report any broken textures that you find, locations and screenshots are especially appreciated. 
 
-The pack has been split into 4 different packs to accommodate Dabdavis' XBLA model support:
+The pack has been split into 5 different packs to accommodate Dabdavis' XBLA model support:
 
-EDIT: Now 5 with 2 Quest packs added.
+**ULTIMATE PLUS HD Texture Pack for the PC Port of Perfect Dark **
+- By Parabolee of Retro Foundry
 
-**PD FOREVER PLUS HD Texture Pack for the PC/PCVR Port of Perfect Dark - V0.10**
+This is the recommended pack. This pack is for people that want to use XBLA models with enhanced and upgraded textures. Updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
+
+**PD FOREVER PLUS HD Texture Pack for the PC/PCVR Port of Perfect Dark **
 - Created by Howard Phillips. Converted and completed by Rafccq, Enigmata, Atari-Dude, & Parabolee
 
 This pack is for people that want HD textures that are faithful to the N64 original and do not like the XBLA Textures or models. It is for use with the PCVR or Dabdavis port while NOT using XBLA models.
 
-
-**XBLA PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
+**XBLA PLUS HD Texture Pack for the PC Port of Perfect Dark **
 - By Parabolee of Retro Foundry
 
 This pack is for people that want to use XBLA faithful but enhanced textures with XBLA models in the PC Port, for use with Dabdavis' branch with XBLA models. Enhanced by Parabolee.
 
-
-**ULTIMATE PLUS HD Texture Pack for the PC Port of Perfect Dark - V0.10**
-- By Parabolee of Retro Foundry
-
-This is the recommended pack. This pack is for people that want to use XBLA models with enhanced textures that are updated to be more faithful to the original artstyle. For use with Dabdavis' branch with XBLA models. Enhanced and hand made textures by Parabolee.
 
 **PD Plus HD Oculus Stand Alone - For v1.9-beta or newer of Alex_LeTux's VR port**
 - Updated to 0.10, added both XBLA based and PD Forever based packs. Both can also be used with PCVR. 
